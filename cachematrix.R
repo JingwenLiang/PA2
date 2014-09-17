@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Date: Sep. 15th, 2014
+=======
+## Date: Sep. 16th, 2014
+>>>>>>> a7fd3e1b7214ab39695dd0ee50f1bab0b9224255
 ## File name: cachematrix.R
 ## cache the inverse of a matrix.
 
